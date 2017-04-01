@@ -1,7 +1,7 @@
 {
-  "name": "wechat-enterprise",
+  "name": "@yantao0527/wechat-enterprise",
   "version": "0.1.2",
-  "description": "微信公共平台企业号版本Node库",
+  "description": "微信公共平台企业号版本Node库，forked from node-webot/wechat-enterprise",
   "main": "index.js",
   "scripts": {
     "test": "make test-all"
@@ -33,7 +33,11 @@
     "rewire": "*",
     "istanbul": "*"
   },
-  "author": "Jackson Tian",
+  "author": {
+    "name": "颜涛",
+    "username": "yantao0527",
+    "email": "yantao0527@gmail.com"
+  },
   "license": "MIT",
   "readmeFilename": "README.md",
   "directories": {
